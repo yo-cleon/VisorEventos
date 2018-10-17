@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/08 20:03:05.000.246,=C:\Users\equipados\OneDrive\Documentos\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2018/09/11 16:53:03.000.524,=D:\Clouds\OneDrive\Documentos\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2018/09/11 16:53:43.000.389,D:\Clouds\OneDrive\Documentos\DELPHI\Unit1.pas=D:\Clouds\OneDrive\Documentos\DELPHI\VisorEventos\Unit1.pas</Transaction>
+    <Transaction>2018/09/11 16:53:43.000.389,D:\Clouds\OneDrive\Documentos\DELPHI\Unit1.dfm=D:\Clouds\OneDrive\Documentos\DELPHI\VisorEventos\Unit1.dfm</Transaction>
+    <Transaction>2018/09/11 16:54:14.000.874,D:\Clouds\OneDrive\Documentos\DELPHI\Project1.dproj=D:\Clouds\OneDrive\Documentos\DELPHI\VisorEventos\Project1.dproj</Transaction>
+    <Transaction>2018/09/11 16:56:27.000.980,=D:\Clouds\OneDrive\Documentos\DELPHI\VisorEventos\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
